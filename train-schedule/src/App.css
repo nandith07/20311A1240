@@ -1,0 +1,57 @@
+ /* App.css */
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+nav {
+  background-color: #f2f2f2;
+  padding: 10px;
+  margin-bottom: 20px;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+
+li {
+  display: inline-block;
+  margin-right: 10px;
+}
+
+a {
+  text-decoration: none;
+  color: #333;
+  padding: 5px 10px;
+  border: 1px solid #333;
+  border-radius: 4px;
+}
+
+a:hover {
+  background-color: #333;
+  color: #fff;
+}
+
+.content {
+  margin-bottom: 20px;
+}
+
+.footer {
+  background-color: #f2f2f2;
+  padding: 10px;
+  text-align: center;
+}
+
+.home-page {
+  background-color: #f1f1f1;
+  padding: 20px;
+}
+
+.home-page h1 {
+  color: blue;
+  font-size: 24px;
+}
+
